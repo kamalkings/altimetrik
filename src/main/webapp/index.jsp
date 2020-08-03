@@ -7,7 +7,6 @@
 <title>Flight Ticket Reservation</title>
 </head>
 <body>
-
 <form action="book" method="POST">
 		<div class="split left">
 			<div class="centered">
