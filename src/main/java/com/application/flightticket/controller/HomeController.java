@@ -87,5 +87,4 @@ public class HomeController {
 		view.setViewName("detailPage.jsp");
 		return view;
 	};
-
 }
