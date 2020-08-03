@@ -20,7 +20,7 @@
 					<br>
 					<b>Destination City</b> <select required name="destinationCity"
 						id="destinationCity">
-						<option value="Coimbatore">Coimbatore </option>
+						<option value="Coimbatore">Coimbatore</option>
 						<option value="Tirunelveli">Tirunelveli</option>
 					</select><br>
 				</div>
