@@ -26,7 +26,7 @@
 				</div>
 				<div>
 					<br> <b>Travel Date</b> <input type="date" name="travelDate"
-						required> <br>
+						 required> <br>
 				</div>
 				<div>
 					<br> <b>ReturnDate</b> <input type="date" name="returnDate">
